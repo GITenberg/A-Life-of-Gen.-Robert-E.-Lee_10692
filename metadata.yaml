@@ -1,0 +1,40 @@
+_repo: A-Life-of-Gen.-Robert-E.-Lee_10692
+_version: 0.0.1
+alternative_title: Life of General Robert E. Lee
+creator:
+  author:
+    agent_name: Cooke, John Esten
+    aliases:
+    - Effingham, C.
+    - Todkill, Anas
+    birthdate: 1830
+    deathdate: 1886
+    gutenberg_agent_id: '2736'
+    url: http://www.gutenberg.org/2009/agents/2736
+    wikipedia: http://en.wikipedia.org/wiki/John_Esten_Cooke
+description: On April 18, 1861 Lee was offered field command of the United States
+  Army. On the following day, he received word that Virginia had seceeded from the
+  Union; he submitted his letter of resignation from the United States Army on April
+  20. Three days later, Lee accepted the position of commander of Virginia forces.
+  From this point onward, Lee's identity became intrinsically linked to the Confederate
+  cause. At the age of 55, on May 31, 1862, Robert E. Lee was assigned to command
+  the troops which he named "The Army of Northern Virginia".
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10692'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Confederate States of America. Army -- Officers -- Biography'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Campaigns'
+- !lcsh 'Generals -- Confederate States of America -- Biography'
+- !lcsh 'Lee, Robert E. (Robert Edward), 1807-1870'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Biography'
+- GITenberg
+title: A Life of Gen. Robert E. Lee
+url: http://www.gutenberg.org/ebooks/10692
