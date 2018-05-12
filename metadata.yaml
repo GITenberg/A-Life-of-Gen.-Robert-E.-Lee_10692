@@ -1,6 +1,9 @@
 _repo: A-Life-of-Gen.-Robert-E.-Lee_10692
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Life of General Robert E. Lee
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cooke, John Esten
@@ -19,6 +22,8 @@ description: On April 18, 1861 Lee was offered field command of the United State
   From this point onward, Lee's identity became intrinsically linked to the Confederate
   cause. At the age of 55, on May 31, 1862, Robert E. Lee was assigned to command
   the troops which he named "The Army of Northern Virginia".
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10692#A-Life-of-Gen.-Robert-E.-Lee
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
